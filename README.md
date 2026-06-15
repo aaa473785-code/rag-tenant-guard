@@ -46,7 +46,7 @@ AIを使うと便利になりますが、従量課金・権限制御・監査ロ
 ## セットアップ
 
 ```powershell
-cd C:\PoC\rag-tenant-guard
+rag-tenant-guard
 python -m venv venv
 .\venv\Scripts\activate
 python -m pip install -r requirements.txt
